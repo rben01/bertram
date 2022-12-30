@@ -16,12 +16,12 @@
 			{
 				"label": "Bertram Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/bertram-dark-color-theme.json"
+				"path": "./dist/bertram-dark-color-theme.json"
 			},
 			{
 				"label": "Bertram Light",
 				"uiTheme": "vs",
-				"path": "./themes/bertram-light-color-theme.json"
+				"path": "./dist/bertram-light-color-theme.json"
 			}
 		]
 	}
