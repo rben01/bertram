@@ -1,0 +1,2 @@
+LIGHT = "$light"
+DARK = "$dark"
