@@ -690,7 +690,7 @@
 		},
 		"editorSuggestWidget.background": {
 			"$light": "#ffffff",
-			"$dark": "#1c2128"
+			"$dark": "#13171c"
 		},
 		"editorSuggestWidget.border": {
 			"$light": "#c8c8c8",
@@ -704,9 +704,13 @@
 			"$light": "#0366d6",
 			"$dark": "#388bfd"
 		},
+		"editorSuggestWidget.selectedForeground": {
+			"$light": "#04090e",
+			"$dark": "#e9f1f9"
+		},
 		"editorSuggestWidget.selectedBackground": {
-			"$light": "#e2e5e9",
-			"$dark": "#4d5765"
+			"$light": "#f2f2f2",
+			"$dark": "#1c2128"
 		},
 		"editorSuggestWidget.selectedIconForeground": {
 			"$light": "#0366d6",
