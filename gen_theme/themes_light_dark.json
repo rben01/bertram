@@ -709,8 +709,8 @@
 			"$dark": "#e9f1f9"
 		},
 		"editorSuggestWidget.selectedBackground": {
-			"$light": "#f2f2f2",
-			"$dark": "#1c2128"
+			"$light": "#e7e8e9",
+			"$dark": "#1f242c"
 		},
 		"editorSuggestWidget.selectedIconForeground": {
 			"$light": "#0366d6",
