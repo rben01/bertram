@@ -1,13 +1,14 @@
 {
 	"name": "bertram",
 	"displayName": "Bertram Theme",
-	"description": "Bertram Theme",
-	"version": "0.5.0",
+	"description": "A theme that's easy on the eyes with a healthy dose of color",
+	"version": "0.5.1",
 	"author": "Robert Bennett (https://github.com/rben01)",
 	"publisher": "rltb",
 	"repository": {
 		"url": "https://github.com/rben01/bertram"
 	},
+	"icon": "assets/icon.png",
 	"engines": {
 		"vscode": "^1.56.0"
 	},

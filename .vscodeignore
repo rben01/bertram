@@ -3,6 +3,7 @@
 !.vscodeignore
 !dist
 !dist/*
+!assets/icon.png
 !CHANGELOG.md
 !LICENSE
 !package.json
