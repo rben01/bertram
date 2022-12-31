@@ -1,0 +1,30 @@
+= Bertram VSCode Theme
+:nofooter:
+
+++++
+<style>
+.shadow-img.light {
+	box-shadow: 0 5px 10px #aaa;
+}
+.shadow-img.dark {
+	box-shadow: 0 5px 10px #555;
+}
+</style>
+++++
+
+A Github-based theme with a bit more color.
+Most theme values were copied from https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme[GitHub Theme].
+
+== Screenshots
+
+File icon theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme[Material Icon Theme]
+
+=== Light Theme
+
+[.shadow-img.light,link=assets/screenshot-light.png]
+image::assets/screenshot-light.png[Light Theme Screenshot]
+
+=== Dark Theme
+
+[.shadow-img.dark,link=assets/screenshot-dark.png]
+image::assets/screenshot-dark.png[Dark Theme Screenshot]
