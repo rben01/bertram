@@ -1,17 +1,6 @@
 = Bertram VSCode Theme
 :nofooter:
 
-++++
-<style>
-.shadow-img.light {
-	box-shadow: 0 5px 10px #aaa;
-}
-.shadow-img.dark {
-	box-shadow: 0 5px 10px #555;
-}
-</style>
-++++
-
 A Github-based theme with a bit more color.
 Most theme values were copied from https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme[GitHub Theme].
 
@@ -21,10 +10,36 @@ File icon theme: https://marketplace.visualstudio.com/items?itemName=PKief.mater
 
 === Light Theme
 
-[.shadow-img.light,link=assets/screenshot-light.png]
-image::assets/screenshot-light.png[Light Theme Screenshot]
+++++
+<svg fill="none" viewBox="0 0 2880 1750" width="" height="" xmlns="http://www.w3.org/2000/svg" style="display:block;box-shadow: 0 5px 10px #aaa;">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<a href="assets/screenshot-light.png">
+				<img src="assets/screenshot-light.png" alt="Light Theme Screenshot" />
+			</a>
+		</div>
+	</foreignObject>
+</svg>
+++++
+
+// ---
+
+// [.shadow-img.light,link=assets/screenshot-light.png]
+// image::assets/screenshot-light.png[Light Theme Screenshot]
 
 === Dark Theme
 
-[.shadow-img.dark,link=assets/screenshot-dark.png]
-image::assets/screenshot-dark.png[Dark Theme Screenshot]
+// [.shadow-img.dark,link=assets/screenshot-dark.png]
+// image::assets/screenshot-dark.png[Dark Theme Screenshot]
+
+++++
+<svg fill="none" viewBox="0 0 2880 1750" width="" height="" xmlns="http://www.w3.org/2000/svg" style="display:block;box-shadow: 0 5px 10px #555;">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<a href="assets/screenshot-dark.png">
+				<img src="assets/screenshot-dark.png" alt="Dark Theme Screenshot" />
+			</a>
+		</div>
+	</foreignObject>
+</svg>
+++++
